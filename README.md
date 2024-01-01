@@ -1,4 +1,4 @@
-![logo image](assets/icon512.png)
+![logo image](assets/icon128.png)
 
 # **ICONER**
 
