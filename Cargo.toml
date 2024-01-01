@@ -1,10 +1,10 @@
 [package]
 name = "iconer"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 authors = ["Artur Gwoździowski"]
 keywords = ["icon converter"]
-repository = ""
+repository = "https://github.com/Arti-Code/iconer.git"
 
 [dependencies]
 ico = "0.3.0"
