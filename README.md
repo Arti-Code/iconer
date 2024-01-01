@@ -1,3 +1,5 @@
+![logo image](assets/icon512.png)
+
 # **ICONER**
 
 _version 0.2_
